@@ -1,2 +1,2 @@
-# DJango-crud-operations
-This is my first DJango project.
+# DJango-RESTframework
+Hi, this is my first drf project.
