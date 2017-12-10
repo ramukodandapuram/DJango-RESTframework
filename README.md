@@ -1,8 +1,9 @@
 # DJango-RESTframework
-Hi, This is all about rest apis for crud operations. I am newbie to this DRF.
+Hi, This is all about REST Services for CRUD operations. I am newbie to DJangoRestFramework, hope this helps guys who wanted to know some basic idea about APIs and how it works.
 
-created Individual apis for each individual operations like (get all, get by Id, Inserting record, updating record by Id, deleting record by Id.
-I figured out some issues  while working on, very soon I troubleshoot everything.
+
+Created Individual apis for each individual operations like (get all, get by Id, Inserting record, updating record by Id, deleting record by Id.
+at begining struggled bit,anyway  everthing working fine. 
 
 Tools used:
 Postman : to test apis
